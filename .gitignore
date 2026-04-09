@@ -1,0 +1,6 @@
+ds_cleaned_hf/
+*.arrow
+dataset_info.json
+state.json
+.ipynb_checkpoints/
+.DS_Store
